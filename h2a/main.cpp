@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include <memory> // Smart pointereita varten
+#include <memory> 
 using namespace std;
 
 class Car {
